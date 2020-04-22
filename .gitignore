@@ -20,6 +20,7 @@ bin-release/
 washington.csv
 new york city.csv
 
+bikeshare.py
 
 import time
 import math
